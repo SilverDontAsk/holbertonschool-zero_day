@@ -1,7 +1,2 @@
 #!/bin/bash
 echo "Best School"
-<<<<<<< HEAD
-=
-#!/bin/bash
-echo "Best School"
->>>>>>> update_script
